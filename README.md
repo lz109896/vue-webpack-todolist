@@ -73,15 +73,10 @@ npm i extract-text-webpack-plugin@3.0.2
 </div>
 
 # 小计
-- [XIAOJI.md 用于记录一些笔记](https://github.com/Jasonccj/vue-webpack-todo/blob/master/XIAOJI.md)
+- [XIAOJI.md 用于记录一些笔记](https://github.com/lz109896/vue-webpack-todolist/blob/master/XIAOJI.md)
 
 # 最后
 - 喜欢的记得点个star.鼓励一下,谢谢!
-
-<div align="left">
-    <img src="https://jason-1255999874.cos.ap-beijing.myqcloud.com/img/mpvue%2Cjava%2C%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="200px" />
-</div>
-
 
 ##### 安装npm依赖
 
